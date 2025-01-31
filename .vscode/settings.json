@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501,
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.position": "explorer",
+    "vscode-pets.theme": "beach",
+    "vscode-pets.petColor": "white",
+    "vscode-pets.petType": "crab",
+    "vscode-pets.throwBallWithMouse": true,
+    "editor.renderWhitespace": "none"
+}
